@@ -1,0 +1,51 @@
+div{ 
+border-radius: 20px;
+    padding: 10px;
+    margin: 10px
+    
+    }
+   
+    .divbox0{
+        background-color: rgb(0, 217, 255);
+    }
+    .divbox1{
+        background-color: rgb(241, 241, 241);
+    }
+    .divbox2{
+        background-color: rgb(0, 174, 180);
+    }
+    .divbox3{
+        background-color: rgb(177, 233, 243);
+    }
+    .divbox4{
+        background-color: rgb(57, 225, 255);
+    }
+    .divbox5{
+        background-color: rgb(180, 252, 255);
+    }
+    .divbox6{
+        background-color: rgb(255, 255, 255);
+    }
+    .contenedor-bari{
+        background-image: url(https://americalatina.travel/admin/uploads/Novedades-en-turismo-Ch_novedades1558982413.jpg);
+    background-size:cover ; 
+    background-repeat: no-repeat;
+    background-position:center ;
+    position: relative;  
+    height: 300px;  
+     box-shadow:-1px 14px 84px 24px #0084ff;
+    margin-bottom: 60px;
+ }
+ .texto-bari{
+     position: absolute;
+     top: 0px;
+     right: 50px;
+ }
+.texto-bari {
+    color: azure;
+    /*sombreado de texto*/
+    text-shadow: #0084ff 0px 25px;
+    font-size: 4em;
+    margin: 0;
+
+}
